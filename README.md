@@ -2,7 +2,6 @@
 - I’m interested in ocean, earth and geospatial analysis
 - I’m currently learning PyTorch and fastai
 - I’m looking to collaborate on a fun fastai project
-- How to reach me: send a direct message 
 
 <!---
 benbardev/benbardev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
